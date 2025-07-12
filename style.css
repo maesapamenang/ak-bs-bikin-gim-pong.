@@ -1,0 +1,18 @@
+body {
+    background: #299e56;
+    color: #d1d40b;
+    font-family: 'Times New Roman', Times, serif sans-serif;
+    text-align: center;
+    margin: 0;
+}
+h1 {
+    margin-top: 50px;
+}
+#pong {
+    display: block;
+    margin: 24px auto;
+    background: #111;
+    border: 10px solid #ff0000;
+    border-radius: 8px;
+    box-shadow: 0 4px 32px #000a;
+}
